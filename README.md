@@ -1,1 +1,1 @@
-# java_ovinger
+# Øvinger i faget Objektorientert programmering JAVA
