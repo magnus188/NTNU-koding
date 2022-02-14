@@ -7,4 +7,4 @@ forskjellige synlighetsmodifikatorer:
 -	Public (tilgjengelig for alle klasser i prosjektet)
 -	Private (kun tilgjengelig i klassen)
 -	Ingen modifikator (kun tilgjengelig innad i pakken)
-- 	Protected (tilgjengelig for klasser i pakken, men også sublclasses i andre pakker)
+- 	Protected (tilgjengelig for klasser i pakken, men også subclasses i andre pakker)
