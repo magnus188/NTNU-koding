@@ -1,1 +1,1 @@
-# Øvinger i faget Objektorientert programmering JAVA
+# Øvinger i faget Objektorientert programmering JAVA og KTN
