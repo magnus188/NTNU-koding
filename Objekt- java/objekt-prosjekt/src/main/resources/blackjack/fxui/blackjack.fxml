@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<AnchorPane prefHeight="500.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="blackjack.fxui.blackjackController">
+  <children>
+    <GridPane prefHeight="200.0" prefWidth="200.0" id="TopAnchorPane">
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minwidth="10" prefWidth="100.0"7>
+      </columnConstraints>
+      <rowConstraints>
+        <RowConstraints maxHeight="360.0" minHeight="10.0" prefHeight="360.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="140.0" minHeight="10.0" prefHeight="140.0" vgrow="SOMETIMES" />
+	  </rowConstraints>
+      <children>
+        <Pane GridPane.rowIndex="1">
+       	  <children>
+          </children>
+    	</Pane>
+        </Pane fx:id="board"/>
+      </children>
+  	</GridPane>       
+  </children>
+</AnchorPane>
